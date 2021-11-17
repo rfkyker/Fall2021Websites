@@ -1,0 +1,59 @@
+body {
+	background: turquoise;
+}
+
+p {
+	font-size: 24px;
+	text-align: left;
+	border-style: dotted;
+	border-color: grey;
+	font-family: courier;
+}
+
+#p1 {
+	color: red;
+	font-size: 30px;
+}
+
+figure {
+	width: 410px;
+	border: solid pink 5px;
+	border-radius: 5px;
+	text-align: center;
+	margin: auto;
+}
+
+img {
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+	padding: 5px;
+}
+
+#candy {
+	width: 200px;
+}
+
+#myDiv {
+	width: 0px;
+	height: 0px;
+	background-color: red;
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+}
+
+#innerDiv {
+	width: 0px;
+	height: 0px;
+	background-color: purple;
+	padding: 0px;
+	border: solid 0px;
+	margin: 0px;
+}
+
+#candy {
+	float: left;
+	margin-right: 10px;
+}
